@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37ab656d-312c-4583-aa2c-af0107aa5a52" name="Default Changelist" comment="meta en la magina web">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XYks9ABy2jihaxpUIGmyBDfT0V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kernel_linux\Desktop\PRESENTAR PROYECTO A WILLIAMS\mason-personal-portfolio-html-template\PAGINA_WEB_SERVICIOS_ODONTOLOGICOS\images\inicio" />
+      <recent name="C:\Users\Kernel_linux\Desktop\PRESENTAR PROYECTO A WILLIAMS\mason-personal-portfolio-html-template\PAGINA_WEB_SERVICIOS_ODONTOLOGICOS\images\home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kernel_linux\Desktop\entrega willy\Plataforma_Nueva_Ultima\images\carnet" />
+      <recent name="C:\Users\Kernel_linux\Desktop\ENTREGA FINAL WILLY\Plataforma_Nueva_Ultima\images\publicicdad" />
+      <recent name="C:\Users\Kernel_linux\Desktop\ENTREGA FINAL WILLY\Plataforma_Nueva_Ultima\js" />
+      <recent name="C:\Users\Kernel_linux\Desktop\ENTREGA FINAL WILLY\Plataforma_Nueva_Ultima\css" />
+      <recent name="C:\Users\LENOVO\Desktop\WILLIAM\Plataforma_Nueva_Ultima\images\publicicdad" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37ab656d-312c-4583-aa2c-af0107aa5a52" name="Default Changelist" comment="" />
+      <created>1542947358096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542947358096</updated>
+      <workItem from="1542947361968" duration="14759000" />
+      <workItem from="1543097929243" duration="19399000" />
+      <workItem from="1543816014311" duration="10937000" />
+      <workItem from="1543891323156" duration="596000" />
+      <workItem from="1543979865424" duration="3783000" />
+      <workItem from="1544297397738" duration="3344000" />
+      <workItem from="1544380902478" duration="15488000" />
+      <workItem from="1544583354535" duration="3068000" />
+      <workItem from="1544611634976" duration="403000" />
+      <workItem from="1544669388901" duration="780000" />
+      <workItem from="1544753916661" duration="4159000" />
+      <workItem from="1544844562095" duration="1000000" />
+      <workItem from="1544888938925" duration="11231000" />
+      <workItem from="1545278663368" duration="1302000" />
+      <workItem from="1545361732485" duration="3377000" />
+      <workItem from="1545527861414" duration="23011000" />
+      <workItem from="1545910532305" duration="1053000" />
+      <workItem from="1546322573770" duration="3610000" />
+      <workItem from="1546372095440" duration="7176000" />
+      <workItem from="1546698573507" duration="433000" />
+      <workItem from="1546708690204" duration="7274000" />
+      <workItem from="1551072216829" duration="5545000" />
+      <workItem from="1551489240106" duration="3406000" />
+      <workItem from="1551547906030" duration="3627000" />
+      <workItem from="1581230622640" duration="697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="meta en la magina web" />
+    <option name="LAST_COMMIT_MESSAGE" value="meta en la magina web" />
+  </component>
+</project>

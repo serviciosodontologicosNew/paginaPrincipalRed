@@ -1,0 +1,71 @@
+
+
+
+
+/* logo principal */
+
+@media only screen and (min-width: 250px) and (max-width: 370px) {
+    .mensaje_whatsapp {
+      display: none;
+    }
+    .aba-whatsphone{
+        display: none;
+    }
+
+    .aba-whatsphone-icone_tres{
+        display: none;
+    }
+    .fixed-tabs-Whats_tres{
+        display: none;
+    }
+
+    .ir-arriba{
+        display: none;
+    }
+    #boton_arriba_spam{
+        display: none;
+    }
+
+    .logo_principal{
+        margin-left: 58px;
+        width: 182PX !important;
+        height: 54px !important;
+    }
+
+    .menu_nav{
+        display: none;  
+    }
+
+    #texto_info, #texto_info2{
+        font-size: 12px;
+        margin-top: 60px;
+    } 
+
+
+    #imagen_familiar{
+
+        margin-top: 35% !important;
+
+        height: 250px !important;
+    }
+
+    #id_promocion_3{
+        margin-left: 0% !important;
+    }
+
+    #correo1,#correo2{
+        font-size: 14px;
+    } 
+
+    #text_1,#text_2,#text_3,#text_4,#text_5,#text_6,
+    #text_7,#text_8,#text_9,#text_10,#text_11,#text_12{
+        font-size: 13px;
+        text-align: left;
+    }
+
+    #formulario_responsivo{
+        display: block;
+    }
+
+
+  }
